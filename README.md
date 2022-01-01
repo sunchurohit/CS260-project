@@ -1,4 +1,4 @@
 # Machine Learning Algorithms - Course Project
 
 This is the project repository for Machine Learning Algorithms course (CS260 - UCLA).  
-Find the report [here](./model.py).
+Find the report [here](./Project%20Report.pdf).
